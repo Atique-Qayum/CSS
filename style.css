@@ -1,0 +1,49 @@
+/* h1 {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+button {
+    color:blueviolet;
+    background-color: gold;
+}
+
+body {
+    background-color: black;
+} */
+
+
+/* Selector */
+
+/* universal Selector */
+*{
+    color: pink
+}
+
+
+/* Element Selector */
+h1 {
+    color: green;
+}
+button {
+    color: red
+}
+
+
+
+/* id Selector */
+#H_one {
+    color: blueviolet;
+}
+
+
+/* Class Selector */
+.bhai {
+    color:burlywood
+}
+
+
+
