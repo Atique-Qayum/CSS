@@ -1,0 +1,33 @@
+/* Text properties */
+
+p {
+    text-align: center;
+}
+
+
+h1 {
+    text-align: center;
+    text-decoration: rgb(116, 3, 221) wavy underline;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+#h1 {
+    font-weight: normal;
+}
+
+#h2 {
+    font-weight: bold;
+}
+
+#h3 {
+
+    font-weight: lighter;
+}
+
+#h4 {
+    font-weight: 900;
+}

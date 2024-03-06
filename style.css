@@ -19,12 +19,12 @@ body {
 /* Selector */
 
 /* universal Selector */
-*{
+/* *{
     color: pink
 }
 
 
-/* Element Selector */
+/* Element Selector
 h1 {
     color: green;
 }
@@ -43,7 +43,10 @@ button {
 /* Class Selector */
 .bhai {
     color:burlywood
-}
+} */
  */
+
+
+
 
 
